@@ -1,1 +1,1 @@
-# fullstack-phonebook-api
+# phonebook-api
